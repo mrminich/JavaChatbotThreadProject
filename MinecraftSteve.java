@@ -24,5 +24,5 @@ public MinecraftSteve extends Chatbot
   // instance fields (instance variables, fields)
 
   private int myInventorySpace;
-  // at least one int, double, String
+  // at least one int, double, String, boolean
 }
